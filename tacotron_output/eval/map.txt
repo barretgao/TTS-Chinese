@@ -1,0 +1,8 @@
+ni3 men5 you3 yi1 ge4 hao3 |tacotron_output/eval\mel-batch_0_sentence_0.npy|<no_g>
+quan2 shi4 jie4 pao3 dao4 shen2 me5 di4 fang1 |tacotron_output/eval\mel-batch_1_sentence_0.npy|<no_g>
+ni3 men5 bi3 qi2 ta1 de5 xi1 fang1 ji4 zhe3 pao3 de5 hai2 kuai4 |tacotron_output/eval\mel-batch_2_sentence_0.npy|<no_g>
+dan4 shi4 wen4 lai2 wen4 qu4 de5 wen4 ti2 dou1 tu1 sen1 po4 |tacotron_output/eval\mel-batch_3_sentence_0.npy|<no_g>
+sang1 tai4 na2 yi4 fu5 |tacotron_output/eval\mel-batch_4_sentence_0.npy|<no_g>
+gou3 li4 guo2 jia1 sheng1 si3 yi3 |tacotron_output/eval\mel-batch_5_sentence_0.npy|<no_g>
+qi3 yin1 huo4 fu2 bi4 qu1 zhi1 |tacotron_output/eval\mel-batch_6_sentence_0.npy|<no_g>
+yi1 er2 san3 si4 wu3 liu|tacotron_output/eval\mel-batch_7_sentence_0.npy|<no_g>
